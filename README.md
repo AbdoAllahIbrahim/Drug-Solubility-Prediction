@@ -18,7 +18,7 @@ This project focuses on predicting hospital readmissions for diabetic patients u
 ### Setup Instructions
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/diabetes-readmission-prediction.git
+   git clone https://github.com/AbdoAllahIbrahim/Drug-Solubility-Prediction
    ```
 2. Install the required libraries:
    ```bash
